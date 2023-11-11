@@ -109,7 +109,7 @@
       this.title = this.title + " , " + this.getTimeOfDay();
       let data = [
         {
-          name: "nitesh",
+          name: "nitesh", 
           age: "24",
           email: "nipu@gmail.com",
           gender: "Male",
